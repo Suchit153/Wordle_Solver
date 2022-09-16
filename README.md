@@ -18,7 +18,9 @@ Use:
 
 3. Press Enter
 
-4. Next enter the black space letters in any order (lower or upper case does not matter. repetition of letters also does not matter.)
+4. Next enter the black space letters in any order (lower or upper case does not matter. repetition of letters also does not matter.)  
+  
+  Example: S (green) O (yellow) A (black) R (black) E (green) = ar
 
 5. Press Enter
 
