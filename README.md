@@ -9,10 +9,10 @@ Use:
 
 1. Use the "Best First Guess" given by the algorithm in the puzzle
 
-2. After guessing the word, enter it as program input as follows - <\n>
-  Green Letters: Upper Case
-  Yellow Letters: Lower Case
-  Black Letters: -
+2. After guessing the word, enter it as program input as follows -  
+  Green Letters: Upper Case  
+  Yellow Letters: Lower Case  
+  Black Letters: -  
   
   Example: S (green) O (yellow) A (black) R (black) E (green) = So--E
 
