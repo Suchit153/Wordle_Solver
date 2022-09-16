@@ -28,6 +28,6 @@ Use:
 
 7. Use suggested "best guess" in app and repeat till solved
 
-Result: Solution within 5 guesses of the word.
+Result: Solution within 5 guesses.  
 
   
